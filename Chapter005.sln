@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while", "while\while.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while2", "while2\while2.csproj", "{FAFB4B31-AB34-4C6C-8C08-23E09AB728D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kimjongsub_ex1", "kimjongsub\kimjongsub_ex1.csproj", "{64603EBD-1DEF-4002-AF45-37DB29B2E3FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kimjongsub_ex2", "kimjongsub_ex2\kimjongsub_ex2.csproj", "{DE1673BC-388D-45CF-8DB7-CB661810D3D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{FAFB4B31-AB34-4C6C-8C08-23E09AB728D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAFB4B31-AB34-4C6C-8C08-23E09AB728D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAFB4B31-AB34-4C6C-8C08-23E09AB728D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64603EBD-1DEF-4002-AF45-37DB29B2E3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64603EBD-1DEF-4002-AF45-37DB29B2E3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64603EBD-1DEF-4002-AF45-37DB29B2E3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64603EBD-1DEF-4002-AF45-37DB29B2E3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE1673BC-388D-45CF-8DB7-CB661810D3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1673BC-388D-45CF-8DB7-CB661810D3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1673BC-388D-45CF-8DB7-CB661810D3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1673BC-388D-45CF-8DB7-CB661810D3D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
