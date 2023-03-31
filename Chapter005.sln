@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kimjongsub_ex2", "kimjongsu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kimjongsub_ex3", "kimjongsub_ex3\kimjongsub_ex3.csproj", "{3811B6AA-9AD1-4709-A2D5-5EBB5573FD2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kimjongsub_ex4", "kimjongsub_ex4\kimjongsub_ex4.csproj", "{DDF9A3ED-62A6-4571-9A67-4FE920D254A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{3811B6AA-9AD1-4709-A2D5-5EBB5573FD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3811B6AA-9AD1-4709-A2D5-5EBB5573FD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3811B6AA-9AD1-4709-A2D5-5EBB5573FD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF9A3ED-62A6-4571-9A67-4FE920D254A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF9A3ED-62A6-4571-9A67-4FE920D254A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF9A3ED-62A6-4571-9A67-4FE920D254A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF9A3ED-62A6-4571-9A67-4FE920D254A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
